@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894916554858",
+    "project_id": "okuro-c7cb8",
+    "storage_bucket": "okuro-c7cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894916554858:android:29b02b736aae736783da13",
+        "android_client_info": {
+          "package_name": "com.example.koruko_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwb0-3mLRDhh1InmP1CcECCv7jOsRNl9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

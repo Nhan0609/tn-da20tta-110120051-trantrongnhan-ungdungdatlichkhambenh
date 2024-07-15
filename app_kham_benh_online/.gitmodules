@@ -1,0 +1,6 @@
+[submodule "source/oruko_app"]
+	path = source/oruko_app
+	url = https://github.com/Nhan0609/tn-da20tta-110120051-trantrongnhan-datlichkhambenhol.git
+[submodule "source/ap_dat_lich_kham"]
+	path = source/ap_dat_lich_kham
+	url = https://github.com/Nhan0609/tn-da20tta-110120051-trantrongnhan-datlichkhambenhol.git
