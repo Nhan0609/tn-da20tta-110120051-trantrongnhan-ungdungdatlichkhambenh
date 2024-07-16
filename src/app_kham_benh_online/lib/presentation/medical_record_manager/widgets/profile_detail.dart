@@ -69,7 +69,7 @@ class _ProfilePageState extends State<ProfilePage> {
                         widget.profileId,
                       ));
                     },
-                    title: 'Cập nhập',
+                    title: 'Cập nhật',
                   ),
                 ],
               );

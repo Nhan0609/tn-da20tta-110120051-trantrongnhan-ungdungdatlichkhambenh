@@ -101,6 +101,7 @@ class _RegisterCalenderState extends State<RegisterCalender> {
     await FirebaseFirestore.instance
         .collection('appointments')
         .where('date', isEqualTo: formattedDate)
+        .where('status', whereIn: ['success', 'inprogress'])
         .where('hospitalId', isEqualTo: widget.medicalId)
         .get()
         .then((snapshot) {

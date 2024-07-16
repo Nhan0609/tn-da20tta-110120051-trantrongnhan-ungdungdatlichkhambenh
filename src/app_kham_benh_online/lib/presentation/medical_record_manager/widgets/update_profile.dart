@@ -143,7 +143,7 @@ class _UpdateProfileState extends State<UpdateProfile> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: CustomAppBar(
-        title: 'Cập nhập hồ sơ bệnh',
+        title: 'Cập nhật hồ sơ bệnh',
         actions: [
           CustomIconButton(
             icon: Icons.save_alt,

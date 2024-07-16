@@ -285,6 +285,7 @@ class _AppointmentScreenState extends State<AppointmentScreen> {
               'Khám mới',
               style: TextStyle(fontSize: 16),
             ),
+            
             const Spacer(),
             Chip(
               label: Text(
