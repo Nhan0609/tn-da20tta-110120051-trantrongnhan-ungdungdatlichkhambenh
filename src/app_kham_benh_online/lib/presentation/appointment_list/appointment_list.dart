@@ -378,6 +378,8 @@ class _AppointmentScreenState extends State<AppointmentScreen> {
         _buildDetailRow('Bệnh nhân:', data['name']),
         _buildDetailRow('Giới tính:', data['gender']),
         _buildDetailRow('Năm sinh:', data['dob']),
+        // _buildDetailRow('Mã thanh toán:', data['dob']),
+
         const SizedBox(height: 8),
         const Text(
           'Lưu ý:',
